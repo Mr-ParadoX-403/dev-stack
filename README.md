@@ -14,17 +14,6 @@ A responsive React website that helps developers explore popular technologies an
 - React-Toastify
 - JSON
 
-## Run locally
-```bash
-npm install
-npm run dev
-```
-
-## Build
-```bash
-npm run build
-```
-
 ## React Questions
 
 ### 1. What is JSX, and why is it used in React?
